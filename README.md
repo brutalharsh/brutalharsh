@@ -1,50 +1,5 @@
 ## Hi there 👋 Harsh!
 
-I'm a 20-year-old aspiring cybersecurity expert and proficient app and web developer. Currently, I work as a freelancer and I'm pursuing a BCA degree to expand my technical knowledge and skills.
-
-## Work Experience
-
-**SOFTWARE & TOOLS**
-
-* Python, JavaScript, C, C++
-* Developed Brutal Bot, a Discord bot using Python
-* Created software & tools for NFTs, sellers, and enhancing work efficiency
-
-**WEB DESIGNER AND DEVELOPER**
-
-* HTML, CSS, JavaScript, Next.js
-* Developed custom websites for various companies
-* Designed animated websites, e-commerce platforms, portfolios, and blogs
-
-**APP DEVELOPER**
-
-* Java, C++
-* Developed web views and small applications to enhance the functionality of websites
-
-**FULL STACK WEB DEVELOPER**
-
-* Created a full website for Astroworks Pvt Ltd using Next.js
-* Involved in both frontend and backend development
-* Developed a login system, admin dashboard, user dashboard, and an email system
-
-**PRODUCT MANAGER**
-
-* Currently working at Ghostpay, a fintech startup
-* Overseeing product development and collaborating with cross-functional teams to ensure smooth product launches
-
-## Skills
-
-* **Programming Languages:** Python, JavaScript, C, C++, Java
-* **Web Development Frameworks:** Next.js, React
-* **Software Development Tools:** Git, GitHub, Visual Studio Code
-* **Cloud Computing Platforms:** AWS, Azure, GCP
-* **DevOps Tools:** Docker
-* **Backend Development:** Node.js, Express.js, Flask, Firebase
-* **Databases:** MongoDB, MySQL, PostgreSQL, SQLite
-* **Mobile Development:** Flutter, React Native, Android
-* **Design Tools:** Figma, Adobe XD, Adobe Photoshop
-* **Operating Systems:** Windows, Ubuntu, Kali, CentOS, Android, macOS, iOS
-* **Browsers:** Google Chrome, Brave, Firefox, Edge, Safari
 
 ## 🕸️ **WEB DEV**
 
