@@ -4,9 +4,8 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8AFF&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+GitHub+Profile!+👋;Python+Developer+%26+Automation+Engineer+🚀;Full-Stack+Web+%26+AI+Developer+📱;Software+Engineer+(Python+%26+AI)+☁️;Tech+Innovator+/+Product+Developer+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8AFF&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+and+Automation+Engineer;Full-Stack+Web+and+AI+Developer;Software+Engineer+(Python+and+AI);Tech+Innovator+/+Product+Developer" alt="Typing SVG" />
 </p>
-
 
 
 <!-- Social Links with Badges -->
