@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Harsh%20Here!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%AI%20Developer%20|%20Full-Stack%20Web%20Enthusiast&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/96734555?v=4" alt="My Image" width="200"/>
-</p>
-
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -31,17 +27,6 @@
   </a>
 </div>
 
-<br />
-
-<!-- Profile Views Counter and Followers -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brutalharsh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/brutalharsh?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/brutalharsh?label=Stars&style=social" alt="Stars" />
-</div>
-
----
-
 ## 🌟 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -53,13 +38,10 @@
 
 <br clear="both">
 
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brutalharsh&show_icons=true&count_private=true&hide_border=true&title_color=3F8AFF&icon_color=3F8AFF&text_color=c9d1d9&bg_color=0d1117" alt="Harsh's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutalharsh&layout=compact&hide_border=true&title_color=3F8AFF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutalharsh&layout=compact&hide_border=true&title_color=3F8AFF&text_color=c9d1d9&bg_color=0d1117&hide=Rust,Jinja,java,ruby,php,c%2B%2B,c%23,swift,go,shell,objective-c,kotlin&langs_count=4" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
@@ -71,31 +53,22 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brutalharsh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=brutalharsh&theme=algolia&no-frame=true&no-bg=true&row=1&column=3" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 💻 Tech Stack
 
-### 🕸️ Frontend Development
+### 🖥️ Platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,redux,vite" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=discord,vscode,github,instagram,linkedin,gmail" alt="Platform Skills" />
 </div>
 
-### 📱 Mobile Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter,dart,react" alt="Mobile Skills" />
-</div>
-
-### ⚙️ Backend Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,express,django,flask,fastapi" alt="Backend Skills" />
-</div>
 
 ### 📅 Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase" alt="Database Skills" />
 </div>
 
 ### 🛠️ DevOps & Tools
@@ -105,7 +78,7 @@
 
 ### 👨‍💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,java" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,java,nodejs,nextjs" alt="Programming Languages" />
 </div>
 
 ---
