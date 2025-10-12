@@ -10,6 +10,9 @@
 
 <!-- Social Links with Badges -->
 <div align="center">
+  <a href="https://discordapp.com/users/271140080188522497">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
   <a href="https://github.com/brutalharsh">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -17,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/brutal_harsh">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
   <a href="mailto:harshkadyan099@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -35,7 +38,9 @@
 
 <br clear="both">
 
-## 📊 GitHub Statistics
+<div align="center">
+ <h1>📊 GitHub Statistics</h1>
+  </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutalharsh&layout=compact&hide_border=true&title_color=3F8AFF&text_color=c9d1d9&bg_color=0d1117&hide=Rust,Jinja,java,ruby,php,c%2B%2B,c%23,swift,go,shell,objective-c,kotlin&langs_count=4" alt="Top Languages" height="180" />
@@ -46,51 +51,51 @@
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
+<br><br>
 
 <div align="center">
+<h1>🏆 GitHub Trophies</h1
   <img src="https://github-profile-trophy.vercel.app/?username=brutalharsh&theme=algolia&no-frame=true&no-bg=true&row=1&column=3" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 💻 Tech Stack
-
-### 🖥️ Platforms
 <div align="center">
+<h1>Tech Stack</h1>
   <img src="https://skillicons.dev/icons?i=discord,vscode,github,instagram,linkedin,gmail" alt="Platform Skills" />
 </div>
 
-
-### 📅 Databases
+---
 <div align="center">
+ <h1>Databases</h1>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase" alt="Database Skills" />
 </div>
 
-### 🛠️ DevOps & Tools
+---
 <div align="center">
+  <h1>DevOps & Tools</h1>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,powershell,bash,heroku,vercel,azure,gcp" alt="DevOps Skills" />
 </div>
 
-### 👨‍💻 Programming Languages
+---
 <div align="center">
+  <h1>Programming Languages</h1>
   <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,java,nodejs,nextjs" alt="Programming Languages" />
 </div>
 
 ---
-
-## 📈 Contribution Graph
+<br><br>
 
 <div align="center">
+<h1>📈 Contribution Graph</h1>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brutalharsh&bg_color=0d1117&color=3F8AFF&line=3F8AFF&point=fff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
-
-## 🎯 Current Focus
+<br><br>
 
 <div align="center">
+<h1>🎯 Current Focus</h1>
   <table>
     <tr>
       <td align="center" width="50%">
@@ -112,45 +117,53 @@
 </div>
 
 ---
+<br><br>
 
-## 📊 Weekly Development Breakdown
+<div align="center">
+  <h1>📊 Weekly Development Breakdown</h1>
+</div>
+ 
 
 <!--START_SECTION:waka-->
 ```text
-Python       12 hrs 30 mins  ████████████░░░░░░░░  45.2%
-TypeScript   8 hrs 15 mins   ███████░░░░░░░░░░░░░  29.8%
-JavaScript   4 hrs 20 mins   ████░░░░░░░░░░░░░░░░  15.7%
-CSS          1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░   6.3%
-Other        50 mins         █░░░░░░░░░░░░░░░░░░░   3.0%
+                                                            Python       12 hrs 30 mins  ████████████░░░░░░░░  45.2%
+                                                            TypeScript   8 hrs 15 mins   ███████░░░░░░░░░░░░░  29.8%
+                                                            JavaScript   4 hrs 20 mins   ████░░░░░░░░░░░░░░░░  15.7%
+                                                            CSS          1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░   6.3%
+                                                            Other        50 mins         █░░░░░░░░░░░░░░░░░░░   3.0%
 ```
 <!--END_SECTION:waka-->
 
 ---
-
-## 🐍 Watch My Contribution Snake
+<br><br>
 
 <div align="center">
+<h1>🐍 Watch My Contribution Snake</h1>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
-
-## 📬 Connect With Me
+<br><br>
 
 <div align="center">
+    <h1>📫 Connect with Me</h1>
+  <a href="https://discordapp.com/users/271140080188522497">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
   <a href="https://github.com/brutalharsh">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/harsh-kadyan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/brutal_harsh">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
+  <a href="mailto:harshkadyan099@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
