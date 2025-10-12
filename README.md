@@ -3,12 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Harsh%20Here!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%AI%20Developer%20|%20Full-Stack%20Web%20Enthusiast&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
-<!-- Typing Animation -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8AFF&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+GitHub+Profile!+👋;Python+Developer+%26+Automation+Engineer+🚀;Full-Stack+Web+%26+AI+Developer+📱;Software+Engineer+(Python+%26+AI)+☁️;Tech+Innovator+/+Product+Developer+💡" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8AFF&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+GitHub+Profile!+👋;Python+Developer+%26+Automation+Engineer+🚀;Full-Stack+Web+%26+AI+Developer+📱;Software+Engineer+(Python+%26+AI)+☁️;Tech+Innovator+/+Product+Developer+💡" alt="Typing SVG" />
+</p>
+
 
 
 <!-- Social Links with Badges -->
