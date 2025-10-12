@@ -120,24 +120,6 @@
 <br><br>
 
 <div align="center">
-  <h1>📊 Weekly Development Breakdown</h1>
-</div>
- 
-
-<!--START_SECTION:waka-->
-```text
-                                                Python       12 hrs 30 mins  ████████████░░░░░░░░  45.2%
-                                                TypeScript   8 hrs 15 mins   ███████░░░░░░░░░░░░░  29.8%
-                                                JavaScript   4 hrs 20 mins   ████░░░░░░░░░░░░░░░░  15.7%
-                                                CSS          1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░   6.3%
-                                                Other        50 mins         █░░░░░░░░░░░░░░░░░░░   3.0%
-```
-<!--END_SECTION:waka-->
-
----
-<br><br>
-
-<div align="center">
 <h1>🐍 Watch My Contribution Snake</h1>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
