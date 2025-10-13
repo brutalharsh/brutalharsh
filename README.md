@@ -58,14 +58,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=brutalharsh&theme=algolia&no-frame=true&no-bg=true&row=1&column=3" alt="GitHub Trophies" />
 </div>
 
----
 
-<div align="center">
-<h1>Tech Stack</h1>
-  <img src="https://skillicons.dev/icons?i=discord,vscode,github,instagram,linkedin,gmail" alt="Platform Skills" />
-</div>
-
----
 <div align="center">
  <h1>Databases</h1>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase" alt="Database Skills" />
