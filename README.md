@@ -87,38 +87,6 @@
 ---
 <br><br>
 
-<div align="center">
-<h1>🎯 Current Focus</h1>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🚀 Learning</h3>
-        <p>
-          • AWS Cloud Services<br>
-          • GraphQL & Prisma
-        </p>
-      </td>
-      <td align="center" width="50%">
-        <h3>🔨 Working On</h3>
-        <p>
-          • Open Source Contributions<br>
-          • Something Uniqe Personal Portfolio Website
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-<br><br>
-
-<div align="center">
-<h1>🐍 Watch My Contribution Snake</h1>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-<br><br>
 
 <div align="center">
     <h1>📫 Connect with Me</h1>
