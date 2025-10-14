@@ -29,7 +29,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/brutalharsh/brutalharsh/master/vibecoding.gif">
 
 - 🔭 I'm currently working on **Full Stack Web Applications**
 - 🌱 I'm currently learning **Cloud Native Technologies & DevOps**
