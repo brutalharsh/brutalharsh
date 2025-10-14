@@ -89,30 +89,6 @@
 
 
 <div align="center">
-    <h1>📫 Connect with Me</h1>
-  <a href="https://discordapp.com/users/271140080188522497">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://github.com/brutalharsh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/harsh-kadyan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/brutal_harsh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
-  <a href="mailto:harshkadyan099@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
-</div>
-
-<div align="center">
   <p>
     <img src="https://img.shields.io/badge/Thanks%20For%20Visiting-05122A?style=for-the-badge" alt="Thanks" />
   </p>
