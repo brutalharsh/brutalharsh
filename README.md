@@ -1,17 +1,14 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=3F8AFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+and+Automation+Engineer;Full-Stack+Web+and+AI+Developer;Software+Engineer+(Python+and+AI);Tech+Innovator+/+Product+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=3F8AFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+and+Automation+Engineer;Full-Stack+Web+and+AI+Developer;Software+Engineer+(Python+and+AI);Tech+Innovator+/+Product+Developer" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutalharsh&layout=compact&hide_border=true&title_color=3F8AFF&text_color=c9d1d9&bg_color=0d1117&hide=Rust,Jinja,java,ruby,php,c%2B%2B,c%23,go,objective-c&langs_count=8" alt="Top Languages" height="120" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutalharsh&layout=compact&hide_border=true&title_color=3F8AFF&text_color=c9d1d9&bg_color=0d1117&hide=Rust,Jinja,java,ruby,php,c%2B%2B,c%23,go,objective-c&langs_count=8" alt="Top Languages" height="200" />
 
 </div>
-
-
-<br clear="both">
 
 <!-- Skills Section -->
 <div align="center">
@@ -63,8 +60,6 @@
     </tr>
   </table>
 
-  <br/>
-
   <!-- Databases -->
   <h4 align="center">Databases</h4>
   <table align="center">
@@ -95,8 +90,6 @@
       </td>
     </tr>
   </table>
-
-  <br/>
 
   <!-- DevOps & Tools -->
   <h4 align="center">DevOps & Tools</h4>
@@ -150,8 +143,6 @@
   </table>
 
 </div>
-
-<br clear="both">
 
 <!-- Social Links with Badges -->
 <div align="center">
