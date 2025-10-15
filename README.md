@@ -3,26 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8AFF&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+and+Automation+Engineer;Full-Stack+Web+and+AI+Developer;Software+Engineer+(Python+and+AI);Tech+Innovator+/+Product+Developer" alt="Typing SVG" />
 </p>
 
-
-<!-- Social Links with Badges -->
-<div align="center">
-  <a href="https://discordapp.com/users/271140080188522497">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://github.com/brutalharsh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/harsh-kadyan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/brutal_harsh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
-  <a href="mailto:harshkadyan099@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
 <div align="center">
 
 <!-- Top Languages -->
@@ -158,4 +138,25 @@
     </div>
   </div>
 
+</div>
+
+<br clear="both">
+
+<!-- Social Links with Badges -->
+<div align="center">
+  <a href="https://discordapp.com/users/271140080188522497">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://github.com/brutalharsh">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/harsh-kadyan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/brutal_harsh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:harshkadyan099@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
