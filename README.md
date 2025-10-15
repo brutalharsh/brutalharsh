@@ -1,7 +1,3 @@
-<!-- Animated Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Harsh%20Here!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%AI%20Developer%20|%20Full-Stack%20Web%20Enthusiast&descAlignY=51&descAlign=62" width="100%" />
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8AFF&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+and+Automation+Engineer;Full-Stack+Web+and+AI+Developer;Software+Engineer+(Python+and+AI);Tech+Innovator+/+Product+Developer" alt="Typing SVG" />
@@ -38,54 +34,157 @@
 
 <br clear="both">
 
-<div align="center">
- <h1>📊 GitHub Statistics</h1>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutalharsh&layout=compact&hide_border=true&title_color=3F8AFF&text_color=c9d1d9&bg_color=0d1117&hide=Rust,Jinja,java,ruby,php,c%2B%2B,c%23,go,objective-c&langs_count=8" alt="Top Languages" height="180" />
+
+  <!-- Stats Info -->
+  <div style="color: #c9d1d9; font-family: Arial, sans-serif; text-align: left;">
+    <h3 style="margin: 0; color: #3F8AFF;">Stats</h3>
+    <p style="margin: 5px 0;">Total Commits: <strong>2100+</strong></p>
+    <p style="margin: 5px 0;">Total PRs: <strong>70+</strong></p>
   </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutalharsh&layout=compact&hide_border=true&title_color=3F8AFF&text_color=c9d1d9&bg_color=0d1117&hide=Rust,Jinja,java,ruby,php,c%2B%2B,c%23,swift,go,shell,objective-c,kotlin&langs_count=4" alt="Top Languages" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brutalharsh&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=3F8AFF&fire=3F8AFF&currStreakLabel=3F8AFF" alt="Streak" />
-</div>
-
----
-<br><br>
+<br clear="both">
 
 <div align="center">
-<h1>🏆 GitHub Trophies</h1
-  <img src="https://github-profile-trophy.vercel.app/?username=brutalharsh&theme=algolia&no-frame=true&no-bg=true&row=1&column=3" alt="GitHub Trophies" />
+  <table align="center" style="margin:0 auto;">
+    <thead>
+      <tr>
+        <th>Programming Languages</th>
+        <th>Databases</th>
+        <th>DevOps & Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" /><br/>Python
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br/>MongoDB
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=git" alt="Git" /><br/>Git
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /><br/>JavaScript
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br/>MySQL
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /><br/>GitHub
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /><br/>TypeScript
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /><br/>PostgreSQL
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /><br/>GitLab
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=html" alt="HTML" /><br/>HTML
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /><br/>SQLite
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br/>Linux
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=css" alt="CSS" /><br/>CSS
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=redis" alt="Redis" /><br/>Redis
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /><br/>Ubuntu
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=java" alt="Java" /><br/>Java
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /><br/>Supabase
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=bash" alt="Bash" /><br/>Bash
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br/>Node.js
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /><br/>PowerShell
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /><br/>Next.js
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /><br/>Heroku
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=swift" alt="Swift" /><br/>Swift
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /><br/>Vercel
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /><br/>Kotlin
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" /><br/>Azure
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" /><br/>GCP
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
-
-<div align="center">
- <h1>Databases</h1>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase" alt="Database Skills" />
-</div>
-
----
-<div align="center">
-  <h1>DevOps & Tools</h1>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,powershell,bash,heroku,vercel,azure,gcp" alt="DevOps Skills" />
-</div>
-
----
-<div align="center">
-  <h1>Programming Languages</h1>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,java,nodejs,nextjs" alt="Programming Languages" />
-</div>
-
----
-<br><br>
+<br clear="both">
 
 <div align="center">
 <h1>📈 Contribution Graph</h1>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brutalharsh&bg_color=0d1117&color=3F8AFF&line=3F8AFF&point=fff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
-<br><br>
+<br clear="both">
 
 
 <div align="center">
