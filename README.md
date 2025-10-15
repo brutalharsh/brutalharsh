@@ -103,37 +103,37 @@
   <!-- DevOps & Tools -->
   <h3 align="center">DevOps & Tools</h3>
   <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
-    <div align="center" style="min-width: 80px;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /><br/>GitHub
     </div>
-    <div align="center" style="min-width: 80px;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" /><br/>Git
     </div>
-    <div align="center" style="min-width: 80px;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /><br/>GitLab
     </div>
-    <div align="center" style="min-width: 80px;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br/>Linux
     </div>
-    <div align="center" style="min-width: 80px;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /><br/>Ubuntu
     </div>
-    <div align="center" style="min-width: 80px;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bash" alt="Bash" /><br/>Bash
     </div>
-    <div align="center" style="min-width: 80px;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /><br/>PowerShell
     </div>
-    <div align="center" style="min-width: 80px;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /><br/>Heroku
     </div>
-    <div align="center" style="min-width: 80px;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /><br/>Vercel
     </div>
-    <div align="center" style="min-width: 80px;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=azure" alt="Azure" /><br/>Azure
     </div>
-    <div align="center" style="min-width: 80px;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" /><br/>GCP
     </div>
   </div>
