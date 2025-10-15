@@ -89,26 +89,34 @@
 
   <!-- Databases -->
   <h3 align="center">Databases</h3>
-  <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br/>MongoDB
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br/>MySQL
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /><br/>PostgreSQL
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /><br/>SQLite
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" /><br/>Redis
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /><br/>Supabase
-    </div>
-  </div>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48" />
+        <br>SQLite
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
+        <br>Redis
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" height="48" />
+        <br>Supabase
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
