@@ -40,8 +40,6 @@
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="32" height="32" />
         <br><sub>CSS</sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="70">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" width="32" height="32" />
         <br><sub>Java</sub>
@@ -128,8 +126,6 @@
         <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="32" height="32" />
         <br><sub>Bash</sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="70">
         <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="32" height="32" />
         <br><sub>PowerShell</sub>
