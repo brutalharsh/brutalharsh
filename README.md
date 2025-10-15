@@ -102,41 +102,56 @@
 
   <!-- DevOps & Tools -->
   <h3 align="center">DevOps & Tools</h3>
-  <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /><br/>GitHub
-    </div>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" /><br/>Git
-    </div>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /><br/>GitLab
-    </div>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br/>Linux
-    </div>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /><br/>Ubuntu
-    </div>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" /><br/>Bash
-    </div>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /><br/>PowerShell
-    </div>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /><br/>Heroku
-    </div>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /><br/>Vercel
-    </div>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" /><br/>Azure
-    </div>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" /><br/>GCP
-    </div>
-  </div>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="48" height="48" />
+        <br>GitLab
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="48" height="48" />
+        <br>Ubuntu
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48" />
+        <br>Bash
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="48" height="48" />
+        <br>PowerShell
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="48" height="48" />
+        <br>Heroku
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" />
+        <br>Vercel
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="48" height="48" />
+        <br>Azure
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="48" height="48" />
+        <br>GCP
+      </td>
+    </tr>
+  </table>
 
 </div>
 
