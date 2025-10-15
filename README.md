@@ -38,38 +38,52 @@
 
   <!-- Programming Languages -->
   <h3 align="center">Programming Languages</h3>
-  <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" /><br/>Python
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /><br/>JavaScript
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /><br/>TypeScript
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" /><br/>HTML
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" /><br/>CSS
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" /><br/>Java
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br/>Node.js
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /><br/>Next.js
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=swift" alt="Swift" /><br/>Swift
-    </div>
-    <div align="center" style="min-width: 80px;">
-      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /><br/>Kotlin
-    </div>
-  </div>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+        <br>CSS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="48" height="48" />
+        <br>Swift
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="48" height="48" />
+        <br>Kotlin
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
