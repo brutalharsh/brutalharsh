@@ -25,15 +25,6 @@
 
 <div align="center">
 
-## 🌟 About Me
-
-- 🔭 I'm currently working on **Full Stack Web Applications**
-- 🌱 I'm currently learning **Cloud Native Technologies & DevOps**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **Check my social links above!**
-
-<br clear="both">
-
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutalharsh&layout=compact&hide_border=true&title_color=3F8AFF&text_color=c9d1d9&bg_color=0d1117&hide=Rust,Jinja,java,ruby,php,c%2B%2B,c%23,go,objective-c&langs_count=8" alt="Top Languages" height="180" />
 
@@ -42,147 +33,107 @@
 
 <br clear="both">
 
+<!-- Skills Section -->
 <div align="center">
-  <table align="center" style="margin:0 auto;">
-    <thead>
-      <tr>
-        <th>Programming Languages</th>
-        <th>Databases</th>
-        <th>DevOps & Tools</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=python" alt="Python" /><br/>Python
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br/>MongoDB
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=git" alt="Git" /><br/>Git
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /><br/>JavaScript
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br/>MySQL
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /><br/>GitHub
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /><br/>TypeScript
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /><br/>PostgreSQL
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /><br/>GitLab
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=html" alt="HTML" /><br/>HTML
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /><br/>SQLite
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br/>Linux
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=css" alt="CSS" /><br/>CSS
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=redis" alt="Redis" /><br/>Redis
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /><br/>Ubuntu
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=java" alt="Java" /><br/>Java
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /><br/>Supabase
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=bash" alt="Bash" /><br/>Bash
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br/>Node.js
-        </td>
-        <td align="center">
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /><br/>PowerShell
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /><br/>Next.js
-        </td>
-        <td align="center">
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /><br/>Heroku
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=swift" alt="Swift" /><br/>Swift
-        </td>
-        <td align="center">
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /><br/>Vercel
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /><br/>Kotlin
-        </td>
-        <td align="center">
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" /><br/>Azure
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-        </td>
-        <td align="center">
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" /><br/>GCP
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
-<br clear="both">
+  <!-- Programming Languages -->
+  <h3 align="center">Programming Languages</h3>
+  <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" /><br/>Python
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /><br/>JavaScript
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /><br/>TypeScript
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" /><br/>HTML
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" /><br/>CSS
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" /><br/>Java
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br/>Node.js
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /><br/>Next.js
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=swift" alt="Swift" /><br/>Swift
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /><br/>Kotlin
+    </div>
+  </div>
 
-<div align="center">
-<h1>📈 Contribution Graph</h1>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brutalharsh&bg_color=0d1117&color=3F8AFF&line=3F8AFF&point=fff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+  <br/>
 
-<br clear="both">
+  <!-- Databases -->
+  <h3 align="center">Databases</h3>
+  <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br/>MongoDB
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br/>MySQL
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /><br/>PostgreSQL
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /><br/>SQLite
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" /><br/>Redis
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /><br/>Supabase
+    </div>
+  </div>
 
+  <br/>
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Thanks%20For%20Visiting-05122A?style=for-the-badge" alt="Thanks" />
-  </p>
+  <!-- DevOps & Tools -->
+  <h3 align="center">DevOps & Tools</h3>
+  <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /><br/>GitHub
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" /><br/>Git
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /><br/>GitLab
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br/>Linux
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /><br/>Ubuntu
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" /><br/>Bash
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /><br/>PowerShell
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /><br/>Heroku
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /><br/>Vercel
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" /><br/>Azure
+    </div>
+    <div align="center" style="min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" /><br/>GCP
+    </div>
+  </div>
+
 </div>
