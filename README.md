@@ -23,9 +23,9 @@
   </a>
 </div>
 
-## 🌟 About Me
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/brutalharsh/brutalharsh/master/vibecoding.gif">
+## 🌟 About Me
 
 - 🔭 I'm currently working on **Full Stack Web Applications**
 - 🌱 I'm currently learning **Cloud Native Technologies & DevOps**
@@ -34,17 +34,11 @@
 
 <br clear="both">
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutalharsh&layout=compact&hide_border=true&title_color=3F8AFF&text_color=c9d1d9&bg_color=0d1117&hide=Rust,Jinja,java,ruby,php,c%2B%2B,c%23,go,objective-c&langs_count=8" alt="Top Languages" height="180" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutalharsh&layout=compact&hide_border=true&title_color=3F8AFF&text_color=c9d1d9&bg_color=0d1117&hide=Rust,Jinja,java,ruby,php,c%2B%2B,c%23,go,objective-c&langs_count=8" alt="Top Languages" height="180" />
 
-  <!-- Stats Info -->
-  <div style="color: #c9d1d9; font-family: Arial, sans-serif; text-align: left;">
-    <h3 style="margin: 0; color: #3F8AFF;">Stats</h3>
-    <p style="margin: 5px 0;">Total Commits: <strong>2100+</strong></p>
-    <p style="margin: 5px 0;">Total PRs: <strong>70+</strong></p>
-  </div>
 </div>
+
 
 <br clear="both">
 
